@@ -1,0 +1,16 @@
+# ninja log v6
+31	379	8106230510091165	build.ninja	a1a629f7cd1d699a
+55	4815	8005371445217357	CMakeFiles/Lab4.dir/MainWindow.cpp.obj	7cba386cd3d94e50
+31	379	8106230510050983	C:/qtprojects/lab4/build/Desktop-Debug/cmake_install.cmake	a1a629f7cd1d699a
+49	86	8005372321674841	moc_Car.cpp	d6b5cb5f0deca2cf
+46	4593	8005371445164360	CMakeFiles/Lab4.dir/main.cpp.obj	28ed06c7c4da3c5e
+39	85	8005372321514775	moc_mainwindow.cpp	4097bf0064b6bb1d
+61	4611	8005371445322397	CMakeFiles/Lab4.dir/Car.cpp.obj	3743c3f8dc9279d
+39	85	8005372321514775	C:/qtprojects/lab4/build/Desktop-Debug/moc_mainwindow.cpp	4097bf0064b6bb1d
+49	86	8005372321674841	C:/qtprojects/lab4/build/Desktop-Debug/moc_Car.cpp	d6b5cb5f0deca2cf
+109	156	8005372321877386	CMakeFiles/Lab4_Autos.dir/moc_Car.cpp.obj	a2254aeeba30b3a3
+87	2802	8005372321745619	CMakeFiles/Lab4_Autos.dir/main.cpp.obj	b9560e1b8b83ba1c
+94	2902	8005372321816608	CMakeFiles/Lab4_Autos.dir/MainWindow.cpp.obj	9392104a80ea76da
+104	2812	8005372321877386	CMakeFiles/Lab4_Autos.dir/moc_mainwindow.cpp.obj	fcbc00103975e6f0
+99	2821	8005372321867251	CMakeFiles/Lab4_Autos.dir/Car.cpp.obj	223f5701a2241c88
+2902	3439	8005372349903508	Lab4_Autos.exe	cbff7c9668756ce

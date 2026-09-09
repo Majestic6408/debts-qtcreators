@@ -1,0 +1,7 @@
+-DWIN32
+--compiler-flavor=msvc
+-o
+C:/qtprojects/lab4/build/Desktop-Debug/moc_Car.cpp
+C:/qtprojects/lab4/Car.h
+-DWIN32
+--compiler-flavor=msvc
